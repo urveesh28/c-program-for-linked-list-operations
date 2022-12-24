@@ -1,2 +1,2 @@
-# c-program-for-linked-list-operations
+# c-programs
 linked-list-operations using c language
